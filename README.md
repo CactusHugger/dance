@@ -1,10 +1,11 @@
-## Dance Javascript
-
-###On Firefox
+On Firefox
+---
 Ctrl + Shift + K and paste script
 
-###On Chrome
+On Chrome
+---
 Ctrl + Shift + K and paste script
 
-###On Edge
+On Edge
+---
 No one uses edge
